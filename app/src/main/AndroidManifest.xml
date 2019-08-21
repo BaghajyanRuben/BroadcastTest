@@ -20,7 +20,7 @@
         </activity>
 
         <receiver
-            android:name=".BootCompliteReciver"
+            android:name=".BootCompleteReceiver"
             android:enabled="true"
             android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
             <intent-filter>
